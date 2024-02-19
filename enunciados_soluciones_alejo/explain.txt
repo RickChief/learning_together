@@ -1,0 +1,18 @@
+en este archivo se van a guardar los enunciados a medida que se planteen a lo largo del entrenamiento de programción. adicionalmente en la carpeta en qeu se encuetra este archivo van a quedar las soluciones que platea la persona
+que este ejerciendo como tutor del ejercicio. siempre se debe buscar el siguiente enunciado del problema diario aqui y la solución será cargada despues de que quien tenga el rol de estudiante cargue la suya.
+
+El estudiante deberá leer atentamente los enunciados, ya que en ellos se le daran instrucciones sobre que consideraciones deberá tener en cuenta a la hora de desarrollar el codio. Estas especificaciones pueden variar
+desde la obligatoriedad de utilizar algun metodo de programación a la solicitud de priorizar la eficiencia o la elegancia en el codigo, de nu cumplirce con las especificaciones solcitadas, aunqeu el codigo hecho por
+el estudiante resuleva el problema se considerará como un ejercicio fallido.
+
+
+Ejercicio 1 - Manejo basico de varaibles:
+
+se debe desarrollar un codigo qeu imprima la tabla de multiplicar de un numero n  haciendo la operación de multiplicación desde el 1 al 20.
+
+consderaciones:
+    - Uso de ciclos for clasicos, no esta permitido el uso de otro tipo de estructuras que funcionen similar
+    - a la hora de realizar el muestreo en pantalla ee realziarce de forma ordenda siguiendo la estructura 3 x 1 = 3 respetando lso espacios mostrados en el ejemplo
+    - Uso del metodo f-string (Opcional): con el fin de indagar en otros metodos un poco mas avanzados se recomienda investigar el uso de los f-string para este ejercicio.
+
+Fecha limite de entrega: 20-2-2024
